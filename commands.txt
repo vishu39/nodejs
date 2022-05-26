@@ -1,0 +1,10 @@
+npm i fawn
+npm i helmet
+npm i compression
+npm i joi
+npm i joi-objectid
+npm i lodash
+npm i winston
+npm i winston-mongodb
+npm i jsonwebtoken
+npm i bcrypt
